@@ -1,0 +1,8 @@
+[ 06.07.2019 - 10:04:31 ]
+    (MSG) [2] in SMILExtract : openSMILE starting!
+[ 06.07.2019 - 10:04:31 ]
+    (MSG) [2] in SMILExtract : config file is: emobase.conf
+[ 06.07.2019 - 10:04:31 ]
+    (MSG) [2] in cComponentManager : successfully registered 96 component types.
+[ 06.07.2019 - 10:04:31 ]
+    (ERROR) [1] in cWaveSource : failed to open input file 'm4fea4.wav'
